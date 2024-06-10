@@ -7,7 +7,6 @@ import './index.css'
 const App = () => {
   return (
     <UserContextProvidor>
-    <h2>we are debuging...</h2>
      <Login/>
      <Status/>
     </UserContextProvidor>
