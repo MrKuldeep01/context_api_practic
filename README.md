@@ -157,15 +157,18 @@ This project is a simple yet effective demonstration of using the React Context 
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/MrKuldeep01/context_api_practice.git
    ```
 2. **Install dependencies:**
    ```bash
-   npm install
+   npm i
    ```
 3. **Run the application:**
    ```bash
-   npm start
+   npm run dev
    ```
 4. **Open in browser:**
-   Navigate to `http://localhost:3000` to see the application in action.
+   Navigate to `http://localhost:5173` to see the application in action.
+
+   # `Thank you`
+   ### for visiting...
